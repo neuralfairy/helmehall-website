@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Helmehall Solutions - Global Cloud Telephony | iGCT Voice Solutions",
+  icons: {
+    icon: "/favicon.png",
+  },
   description:
     "iGCT by Helmehall helps you connect with customers worldwide through reliable, cloud-powered telephony. Global voice solutions that scale with your business.",
   keywords: "cloud telephony, global calling, voice solutions, iGCT, B2B sales tools, VoIP, cloud PBX",
